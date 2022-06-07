@@ -1,0 +1,37 @@
+let products = `[{
+    "name": "Cube 2019",
+    "image": "https://lms.codefactory.live/videos/fswd13.0/JS/JS_day8/Images/cube2019.jpeg",
+    "price": 3200.00,
+    "qtty": 1
+},
+{
+    "name": "GT Avalanche",
+    "image": "https://lms.codefactory.live/videos/fswd13.0/JS/JS_day8/Images/gtavalanche.jpg",
+    "price": 2100.00,
+    "qtty": 1
+},
+{
+    "name": "Trek 8",
+    "image": "https://lms.codefactory.live/videos/fswd13.0/JS/JS_day8/Images/trekfull8.jpg",
+    "price": 4500.00,
+    "qtty": 1
+},
+{
+    "name": "Cannondale Scalpel HT",
+    "image": "https://cache.willhaben.at/mmo/1/573/727/381_-608049483.jpg",
+    "price": 4499.00,
+    "qtty": 1
+},
+{
+    "name": "E-Bike Elektrofahrrad",
+    "image": "https://cache.willhaben.at/mmo/4/552/756/144_240116958.jpg",
+    "price": 3100.00,
+    "qtty": 1
+},
+{
+    "name": "Lastenrad Cargo Bike",
+    "image": "https://cache.willhaben.at/mmo/5/526/790/065_-1173887384.jpg",
+    "price": 2100.00,
+    "qtty": 1
+}
+]`;
